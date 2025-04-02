@@ -5,7 +5,7 @@
 FinBody-10K is an interactive chatbot built with the **Gemini API**, trained on the [Financial-QA-10k](https://www.kaggle.com/datasets/yousefsaeedian/financial-q-and-a-10k) dataset — a rich set of question-answer pairs derived from real-world **10-K financial reports**. Designed for researchers, finance professionals, and data scientists, it delivers **contextual answers** to complex financial questions via a user-friendly **Streamlit interface**.
 
 ---
-
+<!---
 ## 🧱 Visual Metaphor: Like LEGO, but for Finance
 
 Imagine each **10-K filing** as a LEGO set.
@@ -17,7 +17,7 @@ Imagine each **10-K filing** as a LEGO set.
 
 > The result? A smart, structured response crafted from SEC-grade raw material.
 
----
+-->
 
 ## 📸 Interface Preview
 
@@ -65,14 +65,14 @@ _Source: [Financial-QA-10k](https://www.kaggle.com/datasets/yousefsaeedian/finan
 - Education in Finance/Data Science
 
 ---
-
+<!---
 ## 📌 To-Do
 
 - [ ] Add multi-ticker comparison
 - [ ] Implement follow-up question chaining
 - [ ] Add retrieval-augmented generation (RAG) for unseen contexts
 
----
+-->
 
 ## 📫 Contact
 
