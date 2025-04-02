@@ -21,9 +21,9 @@ Imagine each **10-K filing** as a LEGO set.
 
 ## 📸 Interface Preview
 
-![finbody-mockup](https://dummyimage.com/800x400/cccccc/000000&text=FinBuddy-10K+Streamlit+UI+Preview)
+![finbody-mockup](https://raw.githubusercontent.com/CagataySavasli/FinBuddy-10K/main/src/images/interface.png)
 
-*↑ Replace this with a screenshot of your deployed Streamlit app.*
+_For Try: [FinBuddy-10K](https://finbuddy-10k-bbcydnveusyzmhqk2dgdbj.streamlit.app/)_
 
 ---
 
