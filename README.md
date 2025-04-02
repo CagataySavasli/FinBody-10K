@@ -1,8 +1,8 @@
-# 🤖 FinBody-10K
+# 🤖 FinBuddy-10K
 
 > *Talk finance with the brain of 10,000 SEC filings.*
 
-FinBody-10K is an interactive chatbot built with the **Gemini API**, trained on the [Financial-QA-10k](https://www.kaggle.com/datasets/yousefsaeedian/financial-q-and-a-10k) dataset — a rich set of question-answer pairs derived from real-world **10-K financial reports**. Designed for researchers, finance professionals, and data scientists, it delivers **contextual answers** to complex financial questions via a user-friendly **Streamlit interface**.
+FinBuddy-10K is an interactive chatbot built with the **Gemini API**, trained on the [Financial-QA-10k](https://www.kaggle.com/datasets/yousefsaeedian/financial-q-and-a-10k) dataset — a rich set of question-answer pairs derived from real-world **10-K financial reports**. Designed for researchers, finance professionals, and data scientists, it delivers **contextual answers** to complex financial questions via a user-friendly **Streamlit interface**.
 
 ---
 <!---
@@ -13,7 +13,7 @@ Imagine each **10-K filing** as a LEGO set.
 - 🧩 **Context blocks**: Paragraphs from real filings  
 - 🔍 **Question blocks**: What users want to know  
 - 🧠 **Answer blocks**: Gemini intelligently finds the best fit  
-- 🏗️ **FinBody-10K**: Builds meaningful answers from these financial blocks.
+- 🏗️ **FinBuddy-10K**: Builds meaningful answers from these financial blocks.
 
 > The result? A smart, structured response crafted from SEC-grade raw material.
 
@@ -21,7 +21,7 @@ Imagine each **10-K filing** as a LEGO set.
 
 ## 📸 Interface Preview
 
-![finbody-mockup](https://dummyimage.com/800x400/cccccc/000000&text=FinBody-10K+Streamlit+UI+Preview)
+![finbody-mockup](https://dummyimage.com/800x400/cccccc/000000&text=FinBuddy-10K+Streamlit+UI+Preview)
 
 *↑ Replace this with a screenshot of your deployed Streamlit app.*
 
