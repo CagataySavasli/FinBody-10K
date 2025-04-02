@@ -22,8 +22,8 @@ if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
 # Set the application title and subheader
-st.title("FinBody-10K 💰🤖: Your Financial Chat Assistant")
-st.subheader("Hello! I'm FinBody-10K. Ready to assist you with all your finance-related questions. Let's dive into the world of finance together! 📈📊")
+st.title("FinBuddy-10K 💰🤖: Your Financial Chat Assistant")
+st.subheader("Hello! I'm FinBuddy-10K. Ready to assist you with all your finance-related questions. Let's dive into the world of finance together! 📈📊")
 
 # Display the chat history
 for message in st.session_state.chat_history:
