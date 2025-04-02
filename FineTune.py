@@ -20,7 +20,7 @@ def generate_messages(row: pd.Series) -> dict:
 messages = data.apply(generate_messages, axis=1).tolist()
 #%%
 source_model = "models/gemini-1.5-flash-001-tuning"
-display_name = "FinBody-10K"
+display_name = "FinBuddy-10K"
 epoch_count = 20
 batch_size = 32
 learning_rate = 0.001
